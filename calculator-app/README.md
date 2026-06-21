@@ -1,1 +1,1 @@
-This is for Calculator app
+This is for Calculator apps
